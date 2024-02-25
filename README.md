@@ -3,9 +3,9 @@ Team Name - Zephyr
 
 
 
-Team Members - Alina Pauly
-               Krishnapriya k U
-               Anit K T
+Team Members - Alina Pauly,
+               Krishnapriya k U,
+               Anit K T,
                Delsa Davies
 
 
